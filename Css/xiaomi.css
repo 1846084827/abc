@@ -696,6 +696,7 @@ a{
     width: 1349px;
     height: 272px;
     /*background: red;*/
+    margin:0 auto;
 }
 .foot-container{
     width: 1226px;
